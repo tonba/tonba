@@ -456,7 +456,8 @@ Small Device Styles
 #optin {
   position: absolute;
   top: 270px;
-  left: 10px;
+  left: 50%;
+  margin-left: -650px;
   z-index: 10;
   color: #fff;
   width: 300px;
